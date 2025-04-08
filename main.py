@@ -5,7 +5,7 @@ import re
 from Class_ModelResponse import ModelResponse
 user_context = {}
 
-API_TOKEN = '7887756873:AAH1b9nbn1IrsJ7w9rR16WGtg7wMVdyZuQ8'
+API_TOKEN = 'token'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Команды
